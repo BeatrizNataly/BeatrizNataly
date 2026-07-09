@@ -1,5 +1,4 @@
 # ✨ Saudações! ✨
-<div align="center">
 <p>
 Sou Beatriz, desenvolvedora de sistemas web fullstack
 </p>
